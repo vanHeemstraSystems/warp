@@ -1,12 +1,12 @@
-存储库名称
+repository-name
 
 # 存储库名称
 
-> Slugline
+> 斯拉格莱恩
 
 [参考](./REFERENCES.md)
 
-**Executive Summary**
+**执行摘要**
 
 文本
 
