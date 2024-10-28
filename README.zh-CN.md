@@ -1,8 +1,8 @@
-repository-name
+经
 
-# 存储库名称
+# 经
 
-> 斯拉格莱恩
+> Become a command line power user on day one. Warp combines AI and your dev team’s knowledge in one fast, intuitive terminal.
 
 [参考](./REFERENCES.md)
 
