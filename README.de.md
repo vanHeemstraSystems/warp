@@ -1,6 +1,6 @@
 Kette
 
-# Kette
+# Warp
 
 > Werden Sie vom ersten Tag an zum Poweruser der Befehlszeile. Warp vereint KI und das Wissen Ihres Entwicklerteams in einem schnellen, intuitiven Terminal.
 
@@ -10,13 +10,13 @@ Kette
 
 Text
 
-## 100 - Einführung
+## 100 - Introduction
 
 Sehen[README.md](./100/README.md)
 
 ## 200 – Anforderungen
 
-Sehen[README.md](./200/README.md)
+See [README.md](./200/README.md)
 
 ## 300 – Erstellen unserer Anwendung
 
