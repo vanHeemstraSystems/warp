@@ -2,7 +2,7 @@
 
 # ताना
 
-> Become a command line power user on day one. Warp combines AI and your dev team’s knowledge in one fast, intuitive terminal.
+> पहले ही दिन कमांड लाइन पावर उपयोगकर्ता बनें। Warp AI और आपकी डेव टीम के ज्ञान को एक तेज़, सहज ज्ञान युक्त टर्मिनल में जोड़ता है।
 
 [संदर्भ](./REFERENCES.md)
 
