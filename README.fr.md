@@ -1,8 +1,8 @@
-nom du référentiel
+chaîne
 
-# Nom du référentiel
+# Chaîne
 
-> Slugline
+> Devenez un utilisateur expérimenté de la ligne de commande dès le premier jour. Warp combine l'IA et les connaissances de votre équipe de développement dans un terminal rapide et intuitif.
 
 [Références](./REFERENCES.md)
 
@@ -10,7 +10,7 @@ nom du référentiel
 
 Texte
 
-## 100 - Introduction
+## 100 - Présentation
 
 Voir[README.md](./100/README.md)
 
@@ -20,7 +20,7 @@ Voir[README.md](./200/README.md)
 
 ## 300 - Construire notre application
 
-See [README.md](./300/README.md)
+Voir[README.md](./300/README.md)
 
 ## 400 - Conclusion
 
