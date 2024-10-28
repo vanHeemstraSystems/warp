@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+warp
+# Warp
 
-> Slugline
+> Become a command line power user on day one. Warp combines AI and your dev team’s knowledge in one fast, intuitive terminal.
 
 [References](./REFERENCES.md)
 
