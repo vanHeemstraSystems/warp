@@ -1,8 +1,8 @@
-nombre-repositorio
+urdimbre
 
-# Nombre del repositorio
+# Urdimbre
 
-> línea de bala
+> Conviértase en un usuario avanzado de la línea de comandos desde el primer día. Warp combina la IA y el conocimiento de su equipo de desarrollo en una terminal rápida e intuitiva.
 
 [Referencias](./REFERENCES.md)
 
