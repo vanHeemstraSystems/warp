@@ -1,8 +1,8 @@
-repositorynaam
+kromtrekken
 
-# Naam van opslagplaats
+# Verdraaien
 
-> Slaklijn
+> Word vanaf dag één een krachtige gebruiker van de opdrachtregel. Warp combineert AI en de kennis van uw ontwikkelteam in één snelle, intuïtieve terminal.
 
 [Referenties](./REFERENCES.md)
 
@@ -20,7 +20,7 @@ Zien[README.md](./200/README.md)
 
 ## 300 - Onze applicatie bouwen
 
-See [README.md](./300/README.md)
+Zien[README.md](./300/README.md)
 
 ## 400 - Conclusie
 
