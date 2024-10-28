@@ -2,7 +2,7 @@
 
 # 经
 
-> Become a command line power user on day one. Warp combines AI and your dev team’s knowledge in one fast, intuitive terminal.
+> 从第一天起就成为命令行高级用户。 Warp 将人工智能和您的开发团队的知识结合在一个快速、直观的终端中。
 
 [参考](./REFERENCES.md)
 
