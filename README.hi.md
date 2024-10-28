@@ -1,8 +1,8 @@
-भंडार-नाम
+ताना
 
-# भंडार का नाम
+# ताना
 
-> स्लगलाइन
+> Become a command line power user on day one. Warp combines AI and your dev team’s knowledge in one fast, intuitive terminal.
 
 [संदर्भ](./REFERENCES.md)
 
